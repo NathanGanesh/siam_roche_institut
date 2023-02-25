@@ -1,13 +1,13 @@
-./data/**!/data/MIXED50patients_subsamples/
+!/data/MIXED50patients_subsamples/**
 
-!/data/MIXED50patients_subsamples/1/
+!/data/MIXED50patients_subsamples/1/**
 
-!/data/MIXED100patients_subsamples/
+!/data/MIXED100patients_subsamples/**
 
-!/data/MIXED200patients_subsamples/
+!/data/MIXED200patients_subsamples/**
 
-./data/MIXED500patients_subsamples/
+!/data/MIXED500patients_subsamples/**
 
-/data/MIXED1000patients_subsamples/
+!/data/MIXED1000patients_subsamples/**
 
-!/data/MIXED1977patients_subsamples/
+!/data/MIXED1977patients_subsamples/**
