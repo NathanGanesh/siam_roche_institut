@@ -9,3 +9,7 @@ References :
 - [PrivBayes: Private Data Release via Bayesian Networks] (https://dl.acm.org/doi/pdf/10.1145/3134428)
 - [synthpop: Bespoke Creation of Synthetic Data in R] (https://www.jstatsoft.org/article/view/v074i11)
 - [Modeling Tabular data using Conditional GAN] (https://papers.nips.cc/paper/2019/hash/254ed7d2de3b23ab10936522dd547b78-Abstract.html)
+
+
+example project
+https://github.com/privacytrustlab/ml_privacy_meter
