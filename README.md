@@ -11,8 +11,13 @@ References :
 - [Modeling Tabular data using Conditional GAN] (https://papers.nips.cc/paper/2019/hash/254ed7d2de3b23ab10936522dd547b78-Abstract.html)
 
 
-reconstruction attack
+## reconstruction attack
 - https://github.com/iyempissy/anonymization-reconstruction-attack
 
-example project
+## example project
 https://github.com/privacytrustlab/ml_privacy_meter
+
+
+## python library to check
+- https://www.nature.com/articles/s41597-022-01894-2.pdf
+- https://github.com/stratosphereips/awesome-ml-privacy-attacks

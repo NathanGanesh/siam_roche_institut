@@ -10,7 +10,35 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/MIXED200patients_subsamples/1/brca_mRNA_200patients.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/MIXED50patients_subsamples/1/Baynet/brca_mRNA_patients_BayNet_n20_deg2_eps0_seed_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/MIXED50patients_subsamples/1/PrivBayes/brca_mRNA_patients_PrivBayes_n20_deg2_eps1_seed_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/MIXED50patients_subsamples/1/Synthpop/brca_mRNA_50patients_iteration_1_.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/MIXED50patients_subsamples/1/brca_mRNA_50patients.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
