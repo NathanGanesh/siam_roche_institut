@@ -21,3 +21,6 @@ https://github.com/privacytrustlab/ml_privacy_meter
 ## python library to check
 - https://www.nature.com/articles/s41597-022-01894-2.pdf
 - https://github.com/stratosphereips/awesome-ml-privacy-attacks
+
+
+## https://www.youtube.com/watch?v=jkeyZcbgPLA
