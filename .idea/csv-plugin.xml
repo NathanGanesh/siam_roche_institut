@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/MIXED50patients_subsamples/1/Synthpop/brca_mRNA_50patients_iteration_4_.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/MIXED50patients_subsamples/1/brca_mRNA_50patients.csv">
           <value>
             <Attribute>
